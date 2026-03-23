@@ -41,9 +41,9 @@ I specialize in breaking things while trying to learn complex data analytics and
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Other Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) *(Intermediate)*
+**![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) *(Intermediate)*
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) *(Beginner)*
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white) *(Advanced)*
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white) *(Advanced)***
 ---
 
 ## 📫 Let's Connect
