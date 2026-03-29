@@ -19,6 +19,9 @@ I specialize in breaking things while trying to learn complex data analytics and
 ### 📈 [Contingency Planning Optimization: Linear Programming](https://n-1-demo-f8sm7cvon8po9chufu6lk7.streamlit.app/)
 *This was a tool to both help me understand n-1 contingency planning (Math330 Linear Optimization) and to learn how to use GitHub.*
 
+### 🌱 [Community Garden Crop Yield Optimization](https://amranbuilds.github.io/R-Project-Community-Garden-Crop-Yield-Optimization/)
+*This R-based linear programming model determines the optimal spatial allocation for community garden crops to maximize nutritional yield.*
+
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -32,6 +35,7 @@ I specialize in breaking things while trying to learn complex data analytics and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **Project Management** (Advanced)
 ![PMP](https://img.shields.io/badge/PMP_Methodologies-000000?style=flat)
