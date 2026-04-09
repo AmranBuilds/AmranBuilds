@@ -22,6 +22,9 @@ I specialize in breaking things while trying to learn complex data analytics and
 ### 🌱 [Community Garden Crop Yield Optimization](https://amranbuilds.github.io/R-Project-Community-Garden-Crop-Yield-Optimization/)
 *This R-based linear programming model determines the optimal spatial allocation for community garden crops to maximize nutritional yield.*
 
+### 🐧 [Palmer Penguins: Exploratory Data Analysis](https://github.com/AmranBuilds/penguin-data-analysis)
+*A beginner-friendly Python project demonstrating data cleaning, categorical analysis, and visualization using Pandas and Seaborn.*
+
 ---
 
 ## 🛠 Tech Stack & Tools
